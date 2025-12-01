@@ -5,7 +5,7 @@ Me especializo en construir software limpio, robusto y mantenible, siempre busco
 
 Me guia esta frase: "si podes imaginarlo, podes programarlo".
 
-Mi stack principal es Java, Spring Boot, Spring Data, Spring MVC, JPA/ Hibernate, MySQL y JSP.
+Mi stack principal es Java, Spring Boot, Spring Data, Spring MVC, JPA + Hibernate, MySQL y JSP.
 
 Actualmente estoy desarrollando proyectos backend para fortalecer mi portfolio y prepararme para oportunidades en entornos corporativos de alta exigencia.
 
