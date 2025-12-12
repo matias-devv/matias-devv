@@ -11,7 +11,7 @@ Actualmente estoy desarrollando proyectos backend para fortalecer mi portfolio y
 
 Si querés contactarme o colaborar, podés encontrarme acá:
 
-LinkedIn: https://www.linkedin.com/in/matiasrodriguezalejandro/
+LinkedIn: https://www.linkedin.com/in/matias-rodriguez-alejandro/
 
 Email: rmatias.dev@gmail.com
 
