@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://github.com/NDCSwift/Swift-Projects/blob/main/Screenshot%202025-09-25%20at%201.06.36%E2%80%AFPM.png?raw=true)
+![Banner](./banner.png)
 
 ---
 
@@ -10,7 +10,8 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# 👋 Hi, I'm Matias Rodriguez
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> Hi, I'm Matias Rodriguez
+
 **Dream Big, Code Bigger — Building intuitive apps with Java, Spring Boot, Spring Security and Spring Cloud.**
 
 ---
@@ -19,13 +20,15 @@
 <!--             ABOUT ME          -->
 <!-- ============================= -->
 
-## ✨ About Me  
-Hello! I’m Noah Carpenter, an iOS developer and designer passionate about creating apps that are **engaging, accessible, and meaningful**.  
-I enjoy learning, experimenting, and sharing knowledge — whether that’s through building projects, teaching, or creating YouTube tutorials.  
-My focus is on **clarity, accessibility, and helping others grow as developers**, while crafting experiences that people enjoy using every day.  
+## 🦇 About Me
 
-🎥 Check out my [YouTube channel](https://www.youtube.com/@NoahDoesCoding97) for tutorials and coding content!
-Curious how this profile was built? [Watch the walkthrough](https://youtu.be/3GpVxXOXRlM?si=tqHCjHYsyFqQHEjY)
+- Hello! I’m Matias Rodriguez, focused on building clean, secure, and business-driven backend systems with Java and the Spring ecosystem, with a strong emphasis on well-designed APIs and long-term maintainability.
+
+
+- I enjoy learning and experimenting through building real-world backend projects, including complete applications and microservices, applying solid practices around security, architecture, and documentation.
+
+  
+- My focus is on clarity, clean code, and business logic, delivering backend solutions that are easy to understand, maintain, and valuable for real products
 
 ---
 
@@ -35,127 +38,72 @@ Curious how this profile was built? [Watch the walkthrough](https://youtu.be/3Gp
 <!-- ============================= -->
 
 ## 🛠️ Tech & Tools  
+ 
+---
+### ☕ Backend
 
-### 📱 Frontend / UI (iOS & App Dev)  
 <div align="center">
-  <a href="https://developer.apple.com/xcode/swiftui/">
-    <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/documentation/uikit">
-    <img src="https://img.shields.io/badge/UIKit-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/xcode/swiftdata/">
-    <img src="https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/spritekit/">
-    <img src="https://img.shields.io/badge/SpriteKit-FF2D55?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/gamekit/">
-    <img src="https://img.shields.io/badge/GameKit-purple?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/av-foundation/">
-    <img src="https://img.shields.io/badge/AVFoundation-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/healthkit/">
-    <img src="https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/documentation/storekit">
-    <img src="https://img.shields.io/badge/StoreKit-5856D6?logo=apple&logoColor=white" />
-  </a>
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+ 
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+ 
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?logo=spring&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?logo=hibernate&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  
 </div>
 
 ---
 
-### 💾 Backend & Databases  
+### 📱 Frontend (Basic)
+
 <div align="center">
-  <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  </a>
-  <a href="https://realm.io/">
-    <img src="https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/icloud/cloudkit/">
-    <img src="https://img.shields.io/badge/CloudKit-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/documentation/coredata">
-    <img src="https://img.shields.io/badge/CoreData-FFCC00?logo=apple&logoColor=black" />
-  </a>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  
 </div>
 
 ---
 
-### ⚙️ Tools & Workflow  
+### 💾 Databases
+
 <div align="center">
-  <a href="https://developer.apple.com/xcode/">
-    <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/xcode-cloud/">
-    <img src="https://img.shields.io/badge/Xcode%20Cloud-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/testflight/">
-    <img src="https://img.shields.io/badge/TestFlight-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  </a>
-  <a href="https://www.apple.com/keynote/">
-    <img src="https://img.shields.io/badge/Keynote-0066CC?logo=apple&logoColor=white" />
-  </a>
-    <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
-  </a>
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white" />
+  
 </div>
+
 
 ---
+### ⚙️ Tools & Workflow
 
-### 🖥️ Languages  
 <div align="center">
-  <a href="https://developer.apple.com/swift/">
-    <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  </a>
-    <a href="https://developer.apple.com/swift/">
-    <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  </a>
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  </a>
-  <a href="https://www.json.org/">
-    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
 </div>
+
 
 ---
 
@@ -267,7 +215,9 @@ _Set custom goals and track progress in a clean, focused interface._
 <!-- ============================= -->
 ## 🤝 Connect with Me  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@NoahDoesCoding97)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?logo=githubpages&logoColor=white)](https://ndcswift.github.io/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmatias.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-rodriguez-alejandro/)
+
+
 
 ---
