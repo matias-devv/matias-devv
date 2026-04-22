@@ -18,7 +18,7 @@
 
 ## 🦇 About Me
 
-- Hello! I’m Matias Rodriguez, focused on building clean, secure, and business-driven backend systems with Java and the Spring ecosystem, with a strong emphasis on well-designed APIs and long-term maintainability.
+- I’m focused on building clean, secure, and business-driven backend systems with Java and the Spring ecosystem, with a strong emphasis on well-designed APIs and long-term maintainability.
 
 
 - I enjoy learning and experimenting through building real-world backend projects, including complete applications and microservices, applying solid practices around security, architecture, and documentation.
